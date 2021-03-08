@@ -87,9 +87,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-# projects:
-#   output: false
-#   permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 news_limit: 5
 
@@ -118,12 +118,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - '_projects'
-  - '_pages/projects.md'
-keep_files:
-  - CNAME
-  - .nojekyll
-  - .git
 
 # Plug-ins
 plugins:
