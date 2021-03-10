@@ -36,12 +36,13 @@ Our users can resolve the following tasks:
     React, TypeScript for User Interface; Haskell for Core; Verilog for FPGA
 </div>
 
-Currently, the project has focused on two goals:
 
-- be published as open-source code (BSD license);
-- develop the hardware accelerator for system dynamics and its integration into the cloud platform of our friends: [sdCloud project](https://sdcloud.io).
+Today, the project focus on two goals:
 
-You can start meeting with the project by reading [recent publications](https://ryukzak.github.io/publications/) and by viewing presentations:
+- publishing as open-source code (BSD license);
+- developing the hardware accelerator for system dynamics and its integration into the cloud platform of our friends: [sdCloud project](https://sdcloud.io).
+
+You can start meeting with the project by reading [recent publications](https://ryukzak.github.io/publications/) and viewing presentations:
 - [2021, NITTA: principles of work](https://ryukzak.github.io/news/2021-02-03-nitta-internals/) in Russian;
 - [2019, LCPS Workshop: NITTA - Design Application Specific Processors](https://disk.yandex.ru/i/nllkSLEIzmf7GA) in Russian.
 
@@ -51,10 +52,10 @@ You can start to contribute by simple tasks, for example (after opening the sour
 - UI: add transport and instructions tables to ProcessView.
 - HDL library structure in a target project.
 - Add TARGET_PATH command-line argument.
-- Constant folding.
+- Add constant folding.
 
 After diving into the project, you can connect to solving more complex problems:
-- Using machine learning to make decisions in the process of synthesizing the target system.
+- Machine learning usage to make decisions in the process of synthesizing the target system.
 - Development of the XMILE language translator.
 - Support for microarchitectures with multiple networks.
 - Tools for verification of tools (Property-based testing, eDSL, CoSimulation).
