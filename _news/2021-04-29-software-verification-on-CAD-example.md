@@ -10,6 +10,7 @@ The development of complicated software is always associated with many difficult
 
 This report is focusing on verification problems and approaches used in the ongoing NITTA project. This project is dedicated to the development of CAD for hard-real time application-specific processors, which used a wide specter of technologies: Verilog (digital circuitry), Haskell (CAD itself), TypeSctipt (rich web application as UI), and in future Rust (control system) and Python (ML-based synthesis method). That raises the main question of the report: continuous integrity checking across different technologies and domains, including end-to-end automated software static typing, Properties-Based Testing, embedded Domain-Specific Languages, co-verification of tools, and target system software and hardware.
 
-<!-- <[Youtube]()> -->
+<[Youtube](https://youtu.be/3uR1gPU2RGQ)>
 <[Slides]({{ sire.url }}/assets/pdf/2021-04-29-Software-Verification-on-the-ASIP-CAD-Example.pdf)>
+<[NITTA Project](http://ryukzak.github.io/projects/nitta/)>
 <[Place: Open Dais](http://cosm-lab.science/en/open-dais.html)>
