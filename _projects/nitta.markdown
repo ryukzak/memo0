@@ -4,6 +4,7 @@ title: NITTA
 description: CAD for Hard Real-Time Application Specific Processor
 img: /assets/img/nitta-logo-horizon.jpg
 importance: 1
+category: Research pet projects
 ---
 
 We develop the tool for generating and programming specialized non von Neumann processors for cyclic execution of control and signal/data processing algorithms. These processors are based on the original Not Instruction Transport Triggered Architecture (NITTA). That allows us to:
