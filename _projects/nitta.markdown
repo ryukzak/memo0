@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NITTA
-description: CAD for Hard Real-Time Application Specific Processor
+description: Tool for Hard Real-Time CGRA Application Specific Processors
 img: /assets/img/nitta-logo-horizon.jpg
 importance: 1
 category: Research pet projects
@@ -71,7 +71,7 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 ---
 
 
-Мы создаем инструментарий для генерации и программирования специализированных не фон&nbsp;Неймановских процессоров, предназначенных для циклического исполнения алгоритмов управления и обработки сигналов/данных. Они строятся на оригинальной архитектуре NITTA (Not Instruction Transport Triggered Architecture). Это позволяет:
+Мы создаем инструментарий для генерации и программирования специализированных не фон -- Неймановских процессоров, предназначенных для циклического исполнения алгоритмов управления и обработки сигналов/данных. Они строятся на оригинальной архитектуре NITTA (Not Instruction Transport Triggered Architecture). Это позволяет:
 
 - обеспечить высокую скорость и уровень параллелизма для нерегулярных алгоритмов (где не используют GPU) и жесткое реальное время (с точностью до такта);
 - сделать процессор реконфигурируемым под разные прикладные области;
