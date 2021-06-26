@@ -21,6 +21,12 @@ Our users can resolve the following tasks:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        <a href="https://github.com/ryukzak/nitta">
+          <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/GitHub-Mark-120px-plus.png' | relative_url }}" alt="React" title="React"/>
+          <small>GitHub</small>
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/noun_ReactJS_3451802.png' | relative_url }}" alt="React" title="React"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -34,20 +40,20 @@ Our users can resolve the following tasks:
     </div>
 </div>
 <div class="caption">
-    React, TypeScript for User Interface; Haskell for Core; Verilog for FPGA
+    GitHub, React, TypeScript for User Interface; Haskell for Core; Verilog for FPGA
 </div>
 
+Today, the project focus on following goals:
 
-Today, the project focus on two goals:
-
-- publishing as open-source code (BSD license);
 - developing the hardware accelerator for system dynamics and its integration into the cloud platform of our friends: [sdCloud project](https://sdcloud.io).
 
 You can start meeting with the project by reading [recent publications](https://ryukzak.github.io/publications/) and viewing presentations:
-- [2021, NITTA: principles of work](https://ryukzak.github.io/news/2021-02-03-nitta-internals/) in Russian;
-- [2019, LCPS Workshop: NITTA - Design Application Specific Processors](https://disk.yandex.ru/i/nllkSLEIzmf7GA) in Russian.
+- [Paper: 2021, Synthesis Method for CGRA Processors based on Imitation Model](https://www.researchgate.net/publication/350871215_Synthesis_Method_for_CGRA_Processors_based_on_Imitation_Model)
+- [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself](https://ryukzak.github.io/news/2021-04-29-software-verification-on-CAD-example/)
+- [Report: 2021, NITTA: principles of work](https://ryukzak.github.io/news/2021-02-03-nitta-internals/) in Russian
+- [Report: 2019, LCPS Workshop: NITTA - Design Application Specific Processors](https://disk.yandex.ru/i/nllkSLEIzmf7GA) in Russian.
 
-You can start to contribute by simple tasks, for example (after opening the source code, there will be a link to GitHub):
+You can start to contribute by simple tasks, for example:
 
 - Add integrity check of a scheduled computational process into tests.
 - UI: add transport and instructions tables to ProcessView.
@@ -65,11 +71,14 @@ After diving into the project, you can connect to solving more complex problems:
 - Optimization of the target processor synthesis process.
 - Automation of building models of processor units.
 
+For details, see: [GitHub](https://github.com/ryukzak/nitta)
+
 To participate in the project, you need to contact me: <https://t.me/aleksandr_penskoi> or <aleksandr.penskoi@gmail.com>.
 
+Contributors: 
+{% for contributor in site.github.contributors %} [{{ contributor.login }}]({{ contributor.html_url }}); {% endfor %}
 
 ---
-
 
 Мы создаем инструментарий для генерации и программирования специализированных не фон -- Неймановских процессоров, предназначенных для циклического исполнения алгоритмов управления и обработки сигналов/данных. Они строятся на оригинальной архитектуре NITTA (Not Instruction Transport Triggered Architecture). Это позволяет:
 
@@ -83,27 +92,8 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 - программно-аппаратного тестирования и быстрого прототипирования (HIL и PIL);
 - разработки программируемых ускорителей и сопроцессоров.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/noun_ReactJS_3451802.png' | relative_url }}" alt="React" title="React"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/noun_tsx format_1333394.png' | relative_url }}" alt="TypeScript" title="TypeScript"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/noun_lambda_827225.png' | relative_url }}" alt="Haskell" title="Haskell"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/noun_FPGA_26403.png' | relative_url }}" alt="Verilog" title="Verilog"/>
-    </div>
-</div>
-<div class="caption">
-    React, TypeScript для пользовательского интерфейса; Haskell для ядра САПР; Verilog для ПЛИС
-</div>
+В настоящий момент перед проектом стоят следующие цели:
 
-В настоящий момент перед проектом стоит две ключевые цели:
-
-- открытие исходного кода (BSD лицензия);
 - разработка аппаратного ускорителя для системной динамики и его интеграция в облачную платформу наших друзей из [sdCloud project](https://sdcloud.io).
 
 Знакомство с проектом можно начать с чтения [последних статей](https://ryukzak.github.io/publications/) по проекту и просмотра выступлений:
