@@ -4,7 +4,6 @@ title: about
 permalink: /
 description: >
     Associate Professor at <a href="https://scs.ifmo.ru/ru/">Software Engineering and Computer Systems Faculty</a> <br/> 
-    Senior Research Fellows at <a href="http://lcps.itmo.ru">Cyber-Physical System Laboratory</a> <br/> 
     at <a href="https://en.itmo.ru">ITMO University</a>
 
 profile:
