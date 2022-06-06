@@ -6,6 +6,15 @@
 
 ![Thumbnail of Minimal](thumbnail.png)
 
+## Setup
+
+```console
+gem install jekyll --user-install
+gem install bundler:2.2.9 --user-install
+fish_add_path /Users/ryukzak/.gem/ruby/2.6.0/bin
+bundle exec jekyll serve
+```
+
 ## Usage
 
 To use the Minimal theme:

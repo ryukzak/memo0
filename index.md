@@ -1,123 +1,76 @@
 ---
 layout: default
 ---
+## Bio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Most of the time, I mix research (analysis, representation, and experiment), development (programming and management), and teaching (lectures, consulting, and mentoring) in the area of computer engineering. My bio's most important milestones are developing the electricity measuring system for small towns with certification, the Ph.D. thesis about multi-level computer systems organization, and CAD for application-specific processors.
 
-[Link to another page](./another-page.html).
+Current research and development topics:
 
-There should be whitespace between paragraphs.
+- Computer and Cyber-Physical Systems Design
+- Computational Process Organization, Tools
+- Quality Software Management
+- Verification of Software Systems
+- Application-Specific Instruction Set Processor (ASIP)
+- Theory and Practice of Functional Programming
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- Third Person Bio: Aleksandr Penskoi, Ph.D., is working as Associate Professor at Software Engineering and Computer Systems Faculty at ITMO University with a specialization in computational process modeling and computer system design. The primal research topics are multi-level computer systems, hard real-time reconfigurable application-specific processors (NITTA), and verification. He has experience in real-world development as an architect and software engineer, e.g., electricity measuring system for small towns with certification. -->
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Большую часть времени я совмещаю исследования (анализ и эксперименты), разработку (программирование и организацию работ) и преподавание (чтение курсов, консультации и дипломники) в области компьютерной инженерии. Моими наиболее важными результатами являются система измерения потребления электроэнергии в многоквартирных домах (включая сертификацию); кандидатская диссертация о том, что такое многоуровневые системы; и САПР для специализированных вычислителей (текущий проект).
 
-## Header 2
+Текущая область интересов:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Проектирование компьютерных и киберфизических систем.
+- Организация вычислительного процесса, инструментальные средства.
+- Управление качеством программного обеспечения.
+- Верификация программных систем.
+- Проблемно-ориентированные процессора (ASIP).
+- Теория и практика функционального программирования.
 
-### Header 3
+## Projects / Проекты
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<ul>
+{% assign sorted = site.projects | sort: 'title'  %}
+{% for post in sorted %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}
+    <br/>
+    <small> {{ post.description }} </small></a>
+  </li>
+{% endfor %}
+</ul>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Courses / Курсы
 
-#### Header 4
+<ul>
+{% assign sorted = site.courses | sort: 'title'  %}
+{% for post in sorted %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}
+    <br/>
+    <small>{{post.description}}</small></a>
+  </li>
+{% endfor %}
+</ul>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Blog / Блог
 
-##### Header 5
+<ul>
+{% assign sorted = site.posts | sort: 'date' | reverse  %}
+{% for post in sorted %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}
+    <br/>
+    <small><tt> // {{ post.date | date_to_long_string }}</tt></small> </a>
+  </li>
+{% endfor %}
+</ul>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Social / Контакты
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- GitHub: [ryukzak](https://github.com/ryukzak)
+- Twitter: [@ryukzak](https://twitter.com/ryukzak)
+- Telegram: [@aleksandr_penskoi](https://t.me/aleksandr_penskoi)
+- LinkedIn: [Aleksandr Penskoi](https://www.linkedin.com/in/aleksandr-penskoi/)
