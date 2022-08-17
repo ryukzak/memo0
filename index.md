@@ -31,6 +31,8 @@ Current research and development topics:
 
 ## Projects / Проекты
 
+These projects can provide topics for your bachelor's or master's thesis. / Эти проекты могут дать вам темы для бакалаврских или магистреских дипломов.
+
 <ul>
 {% assign sorted = site.projects | sort: 'title'  %}
 {% for post in sorted %}
