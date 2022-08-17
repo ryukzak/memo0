@@ -31,23 +31,20 @@ You can start meeting with the project by reading [recent publications](https://
 
 You can start to contribute by simple tasks, for example:
 
-- Add integrity check of a scheduled computational process into tests.
-- UI: add transport and instructions tables to ProcessView.
-- HDL library structure in a target project.
-- Add TARGET_PATH command-line argument.
-- Add constant folding.
+- Update all web-UI dependencies (Yarn, Typescript, React).
+- Add TARGET_PATH command-line argument (Haskell).
+- Fix minor bugs.
 
 After diving into the project, you can connect to solving more complex problems:
-- Machine learning usage to make decisions in the process of synthesizing the target system.
-- Development of the XMILE language translator.
-- Support for microarchitectures with multiple networks.
-- Tools for verification of tools (Property-based testing, eDSL, CoSimulation).
-- Development of visualization tools for a multi-level computing process.
-- Development of control software for the integration of a specialized processor into other information systems.
-- Optimization of the target processor synthesis process.
-- Automation of building models of processor units.
 
-For details, see: [GitHub](https://github.com/ryukzak/nitta)
+- Machine learning usage to make decisions in the synthesis process (Python, Haskell, ML).
+- Add support for more complex hardware organisation with multiple networks inside the processor (Verilog, Haskell).
+- Automatisation of synthesis process testing by property-based approach (Haskell, Verilog).
+- Automatisation of UI testing (Typescript).
+- Development of visualization tools for a multi-level computing process (Typescript, React).
+- Development of control software for the integration of a specialized processor into other information systems (Rust, Verilog, Haskell).
+
+For details and more actual information look at issues and projects on GitHub: [GitHub](https://github.com/ryukzak/nitta)
 
 To participate in the project, you need to contact me: <https://t.me/aleksandr_penskoi> or <aleksandr.penskoi@gmail.com>.
 
@@ -75,20 +72,17 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 
 Участие в проекте можно начать с простых задач, к примеру (после открытия исходного кода здесь будет ссылка на GitHub с реальными тикетами):
 
-- Add integrity check of a scheduled computational process into tests (Добавить проверку целостности спланированного вычислительного процесса в тесты).
-- UI: add transport and instructions tables to ProcessView (Добавить на форму ProcessView пользовательского интерфейса таблицу спланированных инструкций и пересылок данных).
-- HDL library structure in a target project (Сохранять структуру папок библиотеки при генерации целевой системы).
-- Add TARGET_PATH command line argument (Добавить аргумент командной строки для указания папки с результатом).
-- Constant floding (Свертка констант).
+- Обновление зависимостей пользовательского интерфейса (Yarn, Typescript, React).
+- Добавление ключа TARGET_PATH к интерфейсу командной строки (Haskell).
+- Исправление небольших ошибок.
 
 После погружения в проект можно подключиться к решению более сложных задач:
-- Применение машинного обучения для принятия решений в процессе синтеза целевого вычислителя.
-- Разработка транслятора языка XMILE.
-- Поддержка микроархитектур со множественными сетями.
-- Средства верификации инструментальных средств (Property-based testing, eDSL, совместная симуляция).
-- Разработка средств визуализации многоуровневого вычислительного процесса.
-- Разработка управляющего ПО для интеграции специализированного процессора в другие информационные системы.
-- Оптимизация процесса синтеза целевого вычислителя.
-- Автоматизация построения моделей вычислительных блоков.
 
-Для участия в проекте вам необходимо связаться со мной: <https://t.me/aleksandr_penskoi> или <aleksandr.penskoi@gmail.com>. 
+- Использование машинного обучения для процесса синтеза (Python, Haskell, ML).
+- Поддержка более сложной организации аппаратуры с несколькими сетями внутри процессора (Verilog, Haskell).
+- Автоматизация тестирования процесса синтеза при помощи свойств-ориентированного тестирования (Haskell, Verilog).
+- Автоматизация тестирования пользовательского интерфейса (Typescript).
+- Разработка инструмента визуализации целевого вычислительного процесса (Typescript, React).
+- Разработка системы управления для интеграции процессоров в информационные системы (Rust, Verilog, Haskell).
+
+Для участия в проекте вам необходимо связаться со мной: <https://t.me/aleksandr_penskoi> или <aleksandr.penskoi@gmail.com>.
