@@ -67,7 +67,7 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 - разработка аппаратного ускорителя для системной динамики и его интеграция в облачную платформу наших друзей из [sdCloud project](https://sdcloud.io).
 
 Знакомство с проектом можно начать с чтения [последних статей](https://ryukzak.github.io/publications/) по проекту и просмотра выступлений:
-- [2021, NITTA: принципы работы](https://ryukzak.github.io/news/2021-02-03-nitta-internals/);
+- [2021, NITTA: принципы работы](https://ryukzak.github.io/2021/02/03/nitta-internals.html);
 - [2019, Семинар ЛКФС: NITTA Система проектирования спец. вычислителей](https://disk.yandex.ru/i/nllkSLEIzmf7GA).
 
 Участие в проекте можно начать с простых задач, к примеру (после открытия исходного кода здесь будет ссылка на GitHub с реальными тикетами):
