@@ -87,3 +87,15 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 - Реализация поддержки арифметики с плавающей точки для специализированных вычислителей (Haskell, Verilog)
 
 Для участия в проекте вам необходимо связаться со мной: <https://t.me/aleksandr_penskoi> или <aleksandr.penskoi@gmail.com>.
+
+Дипломы связанные с проектом:
+
+1. Разработка системы управления аппаратным вычислителем, Оспенников Л.В., бак., 2018, [text]({{ site.url }}/assets/pdf/thesises/2018-ospennikov-bac-nitta-control.pdf), [slides]({{ site.url }}/assets/pdf/thesises/2018-ospennikov-bac-nitta-control-slides.pdf)
+1. Механизмы ввода-вывода реконфигурируемой вычислительной платформы реального времени, Емельянов Д.В., маг., 2019, [text]({{ site.url }}/assets/pdf/thesises/2019-emelianov-master-nitta-spi.pdf)
+1. Автоматизация построения моделей вычислительных блоков для системы проектирования специалиированных вычислителей, Ницер  К.А., бак., 2019, [text]({{ site.url }}/assets/pdf/thesises/2019-nitcer-bac-auto-pu-model-gen.pdf)
+1. Разработка высокоскоростного интерфейса аппаратного ускорителя для системной динамики, Чижиков И.В., маг., 2020, [text]({{ site.url }}/assets/pdf/thesises/2020-chizikov-master-nitta-pci-express.pdf)
+1. Оптимизация синтеза в САПР специализированных вычислителей с помощью машинного обучения, Бураков И.А., бак., 2021, [text]({{ site.url }}/assets/pdf/thesises/2021-burakov-bac-nitta-ml.pdf)
+1. Верификация системы автоматического проектирования специализированных процессоров, Костючик А.Г., маг., 2021, [text]({{ site.url }}/assets/pdf/thesises/2021-kostychick-mag-nitta-test-dsl.pdf)
+1. Разработка механизмов синтеза в системе автоматического проектирования специализированных вычислителей, Прохоров Д.А., бак., 2021, [text]({{ site.url }}/assets/pdf/thesises/2021-prohorov-bac-group-binding.pdf)
+1. Инструментальные средства крупногранулярных реконфигурируемых вычислителей для системной динамики, Гогиян А.Г., маг., 2022, [text]({{ site.url }}/assets/pdf/thesises/2022-gogiyan-mag-xmile.pdf)
+1. Механизмы автоматизированного синтеза микроархитектуры крупногранулярных реконфигурируемых вычислителей, Закусило В.А., маг., 2022, [text]({{ site.url }}/assets/pdf/thesises/2022-zakusilo-mag-microachitecure-generation.pdf)
