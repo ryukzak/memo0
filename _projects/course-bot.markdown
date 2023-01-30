@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Bot
-description: Just a Telegram bot for course automatisation on Clojure
+description: Telegram Bot for Course Automatisation on Clojure
 category: Research pet projects
 ---
 
