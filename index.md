@@ -26,15 +26,16 @@ I can serve as your advisor in various theoretical and technical domains:
 
 ### Technical Topics
 
-- Functional Programming: Explore alternative approaches to software development that revolve around functional programming principles. Applying it to real projects.
-- Domain-Specific Languages: Discover how to streamline the programming process and understand why Domain-Specific Languages may not always be the best solution. eDSL intergation in the host language.
-- Distributed Systems: Learn the best practices for designing and implementing distributed systems, taking into account specific business requirements.
-- Software Verification: How do you make sure that the system developed meets expectations? How do I formulate these expectations?
-- Please feel free to explore my projects to get a better idea of my expertise and how I can assist you.
+1. Functional Programming: Explore alternative approaches to software development that revolve around functional programming principles. Applying it to real projects.
+1. Domain-Specific Languages: Discover how to streamline the programming process and understand why Domain-Specific Languages may not always be the best solution. eDSL intergation in the host language.
+1. Distributed Systems: Learn the best practices for designing and implementing distributed systems, taking into account specific business requirements.
+1. Software Verification: How do you make sure that the system developed meets expectations? How do I formulate these expectations?
+
+Please feel free to explore my projects to get a better idea of my expertise and how I can assist you.
 
 ## My Projects / Мои проекты
 
-These projects can provide topics for your bachelor's or master's thesis. / Эти проекты могут дать вам темы для бакалаврских или магистреских дипломов.
+These projects can provide topics for your bachelor's or master's thesis.
 
 <ul>
 {% assign sorted = site.projects | sort: 'title'  %}
