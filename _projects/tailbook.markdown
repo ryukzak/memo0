@@ -17,9 +17,10 @@ We are searching for engineering for the project (QA, Mobile Apps, Backend). Jus
 - **Project state:** MVP.
 - **Project peach:** [YouTube](https://www.youtube.com/live/UWIJd6dJnXs?feature=share&t=3428)
 - **Project presentation**: [PDF]({{ site.url }}/assets/pdf/2023-01-28-tailbook-it-meetup.pdf)
-- **Website:** [tailbook.me/en](https://tailbook.me/en)
-- **Prototype:** [app.tailbook.me](https://app.tailbook.me/)
+- **Website:** [tailbook.me/en](https://tailbook.me)
 - **Instagram:** [tailbook.me](https://instagram.com/tailbook.me?igshid=YmMyMTA2M2Y=)
+
+Techincal stack: Python (FastAPI), PyTorch, ReactNative, Typescript, MongoDB.
 
 ---
 
