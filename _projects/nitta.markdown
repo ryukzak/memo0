@@ -92,6 +92,7 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 
 Дипломы связанные с проектом:
 
+1. [Разработка и исследование архитектурных стилей проектирования уровневой организации Встроенных систем. Пенской А.В. 2016]({{ site.url }}/assets/pdf/thesises/2016-diss-penskoi-thesis.pdf), [autoref]({{ site.url }}/assets/pdf/thesises/2016-diss-penskoi-autoref.pdf)
 1. Разработка системы управления аппаратным вычислителем, Оспенников Л.В., бак., 2018, [text]({{ site.url }}/assets/pdf/thesises/2018-ospennikov-bac-nitta-control.pdf), [slides]({{ site.url }}/assets/pdf/thesises/2018-ospennikov-bac-nitta-control-slides.pdf)
 1. Механизмы ввода-вывода реконфигурируемой вычислительной платформы реального времени, Емельянов Д.В., маг., 2019, [text]({{ site.url }}/assets/pdf/thesises/2019-emelianov-master-nitta-spi.pdf)
 1. Автоматизация построения моделей вычислительных блоков для системы проектирования специалиированных вычислителей, Ницер  К.А., бак., 2019, [text]({{ site.url }}/assets/pdf/thesises/2019-nitcer-bac-auto-pu-model-gen.pdf)
@@ -101,3 +102,5 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 1. Разработка механизмов синтеза в системе автоматического проектирования специализированных вычислителей, Прохоров Д.А., бак., 2021, [text]({{ site.url }}/assets/pdf/thesises/2021-prohorov-bac-group-binding.pdf)
 1. Инструментальные средства крупногранулярных реконфигурируемых вычислителей для системной динамики, Гогиян А.Г., маг., 2022, [text]({{ site.url }}/assets/pdf/thesises/2022-gogiyan-mag-xmile.pdf)
 1. Механизмы автоматизированного синтеза микроархитектуры крупногранулярных реконфигурируемых вычислителей, Закусило В.А., маг., 2022, [text]({{ site.url }}/assets/pdf/thesises/2022-zakusilo-mag-microachitecure-generation.pdf)
+1. Совершенствование метода синтеза на основе машинного обучения в САПР
+специализированных вычислителей, Бураков И.А., маг., 2023, [text]({{ site.url }}/assets/pdf/thesises/2023-burakov-nitta-ml.pdf)
