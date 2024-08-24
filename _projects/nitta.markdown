@@ -67,8 +67,9 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 - разработка аппаратного ускорителя для системной динамики и его интеграция в облачную платформу наших друзей из [sdCloud project](https://sdcloud.io).
 
 Знакомство с проектом можно начать с чтения последних публикацией по проекту и просмотра выступлений:
+- [Функциональный уход за Research Pet Project: NITTA, CGRA, Haskell, верификация и тестирование]({{ sire.url }}/2024/07/11/nitta-verification.markdown)
 - [Paper: 2021, Synthesis Method for CGRA Processors based on Imitation Model](https://www.researchgate.net/publication/350871215_Synthesis_Method_for_CGRA_Processors_based_on_Imitation_Model)
-- [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself](https://ryukzak.github.io/2021/04/29/software-verification-on-CAD-example.html)
+- [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself]({{ sire.url }}/2021/04/29/software-verification-on-CAD-example.html)
 - [2021, NITTA: принципы работы](https://ryukzak.github.io/2021/02/03/nitta-internals.html);
 - [2019, Семинар ЛКФС: NITTA Система проектирования спец. вычислителей](https://disk.yandex.ru/i/nllkSLEIzmf7GA).
 
