@@ -24,10 +24,13 @@ Today, the project focus on the following goals:
 - developing the hardware accelerator for system dynamics and its integration into the cloud platform of our friends: [sdCloud project](https://sdcloud.io).
 
 You can start meeting with the project by reading recent publications and viewing presentations:
+
+- [Report 2024, Functional Carу for Research Pet Project: NITTA, CGRA, Haskell, Verification and Test]({{ sire.url }}/2024/07/11/nitta-verification.markdown) in Russian
+- [Report 2024, NITTA Project & CGRA Overview](https://youtu.be/mW4sVWVvX0Q) in Russian
 - [Paper: 2021, Synthesis Method for CGRA Processors based on Imitation Model](https://www.researchgate.net/publication/350871215_Synthesis_Method_for_CGRA_Processors_based_on_Imitation_Model)
 - [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself](https://ryukzak.github.io/2021/04/29/software-verification-on-CAD-example.html)
 - [Report: 2021, NITTA: principles of work](https://ryukzak.github.io/2021/02/03/nitta-internals.html) in Russian
-- [Report: 2019, LCPS Workshop: NITTA - Design Application Specific Processors](https://disk.yandex.ru/i/nllkSLEIzmf7GA) in Russian.
+- [Report: 2019, LCPS Workshop: NITTA - Design Application Specific Processors](https://disk.yandex.ru/i/nllkSLEIzmf7GA) in Russian
 
 You can start to contribute by simple tasks, for example:
 
@@ -67,7 +70,9 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 - разработка аппаратного ускорителя для системной динамики и его интеграция в облачную платформу наших друзей из [sdCloud project](https://sdcloud.io).
 
 Знакомство с проектом можно начать с чтения последних публикацией по проекту и просмотра выступлений:
+
 - [Функциональный уход за Research Pet Project: NITTA, CGRA, Haskell, верификация и тестирование]({{ sire.url }}/2024/07/11/nitta-verification.markdown)
+- [Report 2024, Обзор проекта NITTA и CGRA](https://youtu.be/mW4sVWVvX0Q), [slides](http://csa.edu.swampbuds.me/99-cgra-nitta.md)
 - [Paper: 2021, Synthesis Method for CGRA Processors based on Imitation Model](https://www.researchgate.net/publication/350871215_Synthesis_Method_for_CGRA_Processors_based_on_Imitation_Model)
 - [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself]({{ sire.url }}/2021/04/29/software-verification-on-CAD-example.html)
 - [2021, NITTA: принципы работы](https://ryukzak.github.io/2021/02/03/nitta-internals.html);
