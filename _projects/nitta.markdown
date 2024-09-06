@@ -25,7 +25,7 @@ Today, the project focus on the following goals:
 
 You can start meeting with the project by reading recent publications and viewing presentations:
 
-- [Report 2024, Functional Carу for Research Pet Project: NITTA, CGRA, Haskell, Verification and Test]({{ sire.url }}/2024/07/11/nitta-verification.markdown) in Russian
+- [Report 2024, Functional Carу for Research Pet Project: NITTA, CGRA, Haskell, Verification and Test]({{ site.url }}/2024/07/11/nitta-verification.markdown) in Russian
 - [Report 2024, NITTA Project & CGRA Overview](https://youtu.be/mW4sVWVvX0Q) in Russian
 - [Paper: 2021, Synthesis Method for CGRA Processors based on Imitation Model](https://www.researchgate.net/publication/350871215_Synthesis_Method_for_CGRA_Processors_based_on_Imitation_Model)
 - [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself](https://ryukzak.github.io/2021/04/29/software-verification-on-CAD-example.html)
@@ -71,10 +71,10 @@ To participate in the project, you need to contact me: <https://t.me/aleksandr_p
 
 Знакомство с проектом можно начать с чтения последних публикацией по проекту и просмотра выступлений:
 
-- [Функциональный уход за Research Pet Project: NITTA, CGRA, Haskell, верификация и тестирование]({{ sire.url }}/2024/07/11/nitta-verification.markdown)
+- [Функциональный уход за Research Pet Project: NITTA, CGRA, Haskell, верификация и тестирование]({{ site.url }}/2024/07/11/nitta-verification.markdown)
 - [Report 2024, Обзор проекта NITTA и CGRA](https://youtu.be/mW4sVWVvX0Q), [slides](http://csa.edu.swampbuds.me/99-cgra-nitta.md)
 - [Paper: 2021, Synthesis Method for CGRA Processors based on Imitation Model](https://www.researchgate.net/publication/350871215_Synthesis_Method_for_CGRA_Processors_based_on_Imitation_Model)
-- [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself]({{ sire.url }}/2021/04/29/software-verification-on-CAD-example.html)
+- [Report: 2021, Open Dais: Software Verification on the ASIP CAD Example or How to Trust Your Team and Yourself]({{ site.url }}/2021/04/29/software-verification-on-CAD-example.html)
 - [2021, NITTA: принципы работы](https://ryukzak.github.io/2021/02/03/nitta-internals.html);
 - [2019, Семинар ЛКФС: NITTA Система проектирования спец. вычислителей](https://disk.yandex.ru/i/nllkSLEIzmf7GA).
 
